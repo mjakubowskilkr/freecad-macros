@@ -40,6 +40,10 @@
 5. Click **GENERATE CUT** and wait for the progress bar to finish.
 
 ---
+> ☕ **Enjoying this macro?**
+> If this tool has saved you hours of FreeCAD struggles and computing time, consider buying me a coffee! It fuels my coding sessions and helps me create more free tools for the community.
+> 
+> [![Support me on Suppi](https://img.shields.io/badge/Buy_me_a_coffee-suppi.pl-FF5E5B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://suppi.pl/mjlkr)
 
 ## 🇵🇱 Wersja Polska
 
@@ -72,4 +76,9 @@
 5. Kliknij **GENERUJ WYCIĘCIE** i poczekaj na wypełnienie paska postępu.
 
 ---
+> ☕ **Podoba Ci się to, co robię?**
+> Jeśli to makro okazało się przydatne i zaoszczędziło Ci mnóstwo czasu (i nerwów) podczas projektowania, możesz postawić mi wirtualną kawę! To świetne paliwo, które napędza mnie do tworzenia kolejnych narzędzi i aktualizacji.
+> 
+> [![Wesprzyj mnie na Suppi](https://img.shields.io/badge/Postaw_mi_kawę-suppi.pl-FF5E5B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://suppi.pl/mjlkr)
+
 *Created with passion for the FreeCAD community.*

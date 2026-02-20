@@ -28,7 +28,7 @@
 
 ### 📥 Installation
 
-1. Download the `PaterrnGenerator_NEW.FCMacro` file from this repository.
+1. Download the `PaterrnGenerator.FCMacro` file from this repository.
 2. Place it in your FreeCAD Macro directory. Typical locations:
    * **Windows**: `%APPDATA%\FreeCAD\Macro\`
    * **Linux**: `~/.local/share/FreeCAD/Macro/`
@@ -60,7 +60,7 @@
 
 ### 📥 Instalacja
 
-1. Pobierz plik `PaterrnGenerator_NEW.FCMacro` z tego repozytorium.
+1. Pobierz plik `PaterrnGenerator.FCMacro` z tego repozytorium.
 2. Umieść go w swoim folderze Makr FreeCAD. Typowe lokalizacje to:
    * **Windows**: `%APPDATA%\FreeCAD\Macro\`
    * **Linux**: `~/.local/share/FreeCAD/Macro/`

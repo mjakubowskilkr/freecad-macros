@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 """ 
-Pattern HOLES (planar) - v0.9 (PL/ENG version) 
+Pattern HOLES (planar) - v0.9.1 (PL/ENG version) 
 FreeCAD 1.0.2
 
 """ 
@@ -13,7 +13,7 @@ import math
 import urllib.request
 import io
 
-VERSION = "0.9"
+VERSION = "0.9.1"
 PREVIEW_OBJ_NAME = "Pattern_Preview_Phantom" 
 PARAM_PATH = "User parameter:BaseApp/Preferences/Macros/PatternHoles"
 pattern_macro_window = None 
@@ -42,7 +42,7 @@ TRANSLATIONS = {
         "help_title": "Introduction / Help",
         "help_warning": "<br><b style='color:#ff5555;'>WARNING:</b> Generating on large surfaces can heavily tax your CPU. The program may appear frozen, but <b>do not close it</b> – it is working in the background.",
         "author_header": "Author:",
-        "github": "https://github.com/mjakubowskilkr/freecad-macros",
+        "github": "https://github.com/mjakubowskilkr/freecad-pattern-generator",
         "btn_help": "Help / Info",
         "lbl_shape": "Pattern parameters",
         "help_desc": "<b>How to use:</b><br>1. Select a flat face in 3D.<br>2. Click 'Select Target Face'.<br>3. Adjust parameters.<br>4. Click GENERATE CUT.",
@@ -76,7 +76,7 @@ TRANSLATIONS = {
         "help_title": "Wprowadzenie / Pomoc",
         "help_warning": "<br><b style='color:#ff5555;'>UWAGA:</b> Generowanie na dużych powierzchniach może mocno obciążyć komputer. Program może wyglądać na zawieszony, ale <b>nie należy go zamykać</b> – pracuje w tle.",
         "author_header": "Autor:",
-        "github": "https://github.com/mjakubowskilkr/freecad-macros",
+        "github": "https://github.com/mjakubowskilkr/freecad-pattern-generator",
         "btn_help": "Pomoc / Info",
         "lbl_shape": "Parametry wzoru",
         "help_desc": "<b>Jak używać:</b><br>1. Zaznacz płaską ścianę w 3D.<br>2. Kliknij 'Pobierz zaznaczoną ścianę'.<br>3. Dostosuj parametry.<br>4. Kliknij GENERUJ WYCIĘCIE.",
